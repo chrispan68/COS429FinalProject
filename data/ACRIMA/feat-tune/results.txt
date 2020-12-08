@@ -1,0 +1,6 @@
+Test Loss: 0.072949
+Test Acc: 0.971631
+Confusion Matrix
+     77      2
+      2     60
+ROC AUC: 0.996325
